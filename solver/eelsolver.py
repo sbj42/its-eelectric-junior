@@ -4,10 +4,10 @@ import copy
 import collections
 import sys
 
-SHOCKHP = 3
+SHOCKHP = 1
 MOVEHP = 1
 MAXHP = 20
-FOODHP = 4
+FOODHP = 3
 
 with open('../game/eelectric.js', 'r') as f:
     a = f.read()
