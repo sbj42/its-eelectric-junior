@@ -5,7 +5,7 @@
 
 #### A web-based puzzle game for kids
 
-[Play it online](https://sbj42.github.io/projects/its-eelectric-jr/)!
+[Play it online](https://sbj42.github.io/its-eelectric-junior/game/)!
 
 Do you like eel-based puzzle games?  Ready for some mind-bending diagonal-moving action?  No?  Nevertheless, let me introduce you to It's EELectric! (Junior).
 
